@@ -5,8 +5,6 @@ This project implements a simple Tic-Tac-Toe game with some key elements where t
 
 ### Screenshots below
 
-<img src="screenshots/one.png" width="375" height="667">
-<img src="screenshots/two.png" width="375" height="667">
-<img src="screenshots/three.png" width="375" height="667">
-<img src="screenshots/four.png" width="375" height="667">
+<img src="screenshots/one.png" width="375" height="667"><img src="screenshots/two.png" width="375" height="667">
+<img src="screenshots/three.png" width="375" height="667"><img src="screenshots/four.png" width="375" height="667">
 <img src="screenshots/five.png" width="375" height="667">
