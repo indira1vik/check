@@ -5,7 +5,7 @@ This project implements a simple Tic-Tac-Toe game with some key elements where t
 
 ### Screenshots below
 
-![Image](screenshots/one.png | width=100)
+<img src="screenshots/one.png" width="100" height="100">
 ![Image](screenshots/two.png)
 ![Image](screenshots/three.png)
 ![Image](screenshots/four.png)
